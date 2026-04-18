@@ -1,0 +1,51 @@
+wave,market,brand,audience,score,clarity,consistency,visibility,comment,age_group,gender
+Wave 1,B2B SaaS,Brand A,£100k-£250k,15,4,4,7,Brand in B2B SaaS looking to improve its visibility.,<1 year,2-5
+Wave 1,Specialty Coffee,Brand B,<£100k,14,7,4,3,Brand in Specialty Coffee looking to improve its clarity.,3-5 years,Solo
+Wave 1,Specialty Coffee,Brand C,<£100k,12,6,2,4,Brand in Specialty Coffee looking to improve its clarity.,3-5 years,2-5
+Wave 2,B2B SaaS,Brand D,<£100k,10,5,2,3,Brand in B2B SaaS looking to improve its consistency.,3-5 years,6-15
+Wave 4,Law Firm,Brand E,£1M+,15,6,6,3,Brand in Law Firm looking to improve its consistency.,3-5 years,16+
+Wave 1,Construction,Brand F,£1M+,14,8,3,3,Brand in Construction looking to improve its clarity.,<1 year,16+
+Wave 2,Law Firm,Brand G,£250k-£1M,15,7,5,3,Brand in Law Firm looking to improve its visibility.,1-3 years,Solo
+Wave 2,Construction,Brand H,<£100k,22,9,8,5,Brand in Construction looking to improve its consistency.,<1 year,16+
+Wave 3,B2B SaaS,Brand I,£250k-£1M,23,7,8,8,Brand in B2B SaaS looking to improve its clarity.,5+ years,6-15
+Wave 4,Specialty Coffee,Brand J,£250k-£1M,16,5,3,8,Brand in Specialty Coffee looking to improve its consistency.,5+ years,6-15
+Wave 1,Law Firm,Brand K,<£100k,12,6,2,4,Brand in Law Firm looking to improve its clarity.,<1 year,16+
+Wave 2,Creative Agency,Brand L,£250k-£1M,24,8,7,9,Brand in Creative Agency looking to improve its visibility.,<1 year,16+
+Wave 2,Creative Agency,Brand M,<£100k,19,6,8,5,Brand in Creative Agency looking to improve its clarity.,5+ years,6-15
+Wave 3,B2B SaaS,Brand N,£250k-£1M,18,9,5,4,Brand in B2B SaaS looking to improve its clarity.,<1 year,2-5
+Wave 3,B2B SaaS,Brand O,£100k-£250k,16,6,8,2,Brand in B2B SaaS looking to improve its visibility.,3-5 years,Solo
+Wave 3,B2B SaaS,Brand P,<£100k,15,4,2,9,Brand in B2B SaaS looking to improve its visibility.,<1 year,16+
+Wave 3,Specialty Coffee,Brand Q,<£100k,15,6,7,2,Brand in Specialty Coffee looking to improve its consistency.,5+ years,16+
+Wave 4,Construction,Brand R,£100k-£250k,22,8,8,6,Brand in Construction looking to improve its clarity.,1-3 years,6-15
+Wave 4,Specialty Coffee,Brand S,£250k-£1M,11,3,4,4,Brand in Specialty Coffee looking to improve its clarity.,5+ years,16+
+Wave 3,Law Firm,Brand T,£250k-£1M,19,5,8,6,Brand in Law Firm looking to improve its clarity.,<1 year,16+
+Wave 1,Creative Agency,Brand U,<£100k,11,3,4,4,Brand in Creative Agency looking to improve its visibility.,5+ years,2-5
+Wave 3,Specialty Coffee,Brand V,£100k-£250k,22,9,8,5,Brand in Specialty Coffee looking to improve its visibility.,1-3 years,6-15
+Wave 2,B2B SaaS,Brand W,£1M+,19,8,8,3,Brand in B2B SaaS looking to improve its consistency.,1-3 years,16+
+Wave 1,Specialty Coffee,Brand X,£1M+,14,5,8,1,Brand in Specialty Coffee looking to improve its consistency.,5+ years,6-15
+Wave 3,Specialty Coffee,Brand Y,<£100k,19,6,5,8,Brand in Specialty Coffee looking to improve its visibility.,3-5 years,Solo
+Wave 2,Law Firm,Brand Z,<£100k,16,5,3,8,Brand in Law Firm looking to improve its clarity.,<1 year,Solo
+Wave 2,Law Firm,Brand A1,£250k-£1M,12,3,3,6,Brand in Law Firm looking to improve its consistency.,<1 year,Solo
+Wave 2,Law Firm,Brand B1,£250k-£1M,14,9,2,3,Brand in Law Firm looking to improve its clarity.,1-3 years,Solo
+Wave 3,Construction,Brand C1,£1M+,12,3,8,1,Brand in Construction looking to improve its clarity.,5+ years,Solo
+Wave 2,Specialty Coffee,Brand D1,<£100k,24,7,8,9,Brand in Specialty Coffee looking to improve its consistency.,<1 year,6-15
+Wave 1,Construction,Brand E1,<£100k,19,4,8,7,Brand in Construction looking to improve its consistency.,<1 year,2-5
+Wave 1,Specialty Coffee,Brand F1,£100k-£250k,18,9,4,5,Brand in Specialty Coffee looking to improve its consistency.,3-5 years,Solo
+Wave 3,Law Firm,Brand G1,£250k-£1M,12,4,2,6,Brand in Law Firm looking to improve its consistency.,1-3 years,Solo
+Wave 2,Creative Agency,Brand H1,<£100k,15,7,3,5,Brand in Creative Agency looking to improve its consistency.,3-5 years,2-5
+Wave 1,B2B SaaS,Brand I1,£100k-£250k,20,8,5,7,Brand in B2B SaaS looking to improve its consistency.,1-3 years,6-15
+Wave 2,Law Firm,Brand J1,£100k-£250k,20,4,8,8,Brand in Law Firm looking to improve its clarity.,3-5 years,16+
+Wave 1,Specialty Coffee,Brand K1,£1M+,12,3,2,7,Brand in Specialty Coffee looking to improve its clarity.,5+ years,2-5
+Wave 3,B2B SaaS,Brand L1,£1M+,21,9,5,7,Brand in B2B SaaS looking to improve its visibility.,3-5 years,Solo
+Wave 1,Law Firm,Brand M1,£100k-£250k,16,6,3,7,Brand in Law Firm looking to improve its consistency.,5+ years,6-15
+Wave 1,Specialty Coffee,Brand N1,£1M+,8,3,4,1,Brand in Specialty Coffee looking to improve its clarity.,5+ years,2-5
+Wave 4,Law Firm,Brand O1,£100k-£250k,25,9,8,8,Brand in Law Firm looking to improve its visibility.,<1 year,2-5
+Wave 3,Construction,Brand P1,£250k-£1M,17,6,8,3,Brand in Construction looking to improve its consistency.,1-3 years,2-5
+Wave 1,B2B SaaS,Brand Q1,£250k-£1M,11,6,4,1,Brand in B2B SaaS looking to improve its visibility.,3-5 years,Solo
+Wave 4,Law Firm,Brand R1,£100k-£250k,17,4,4,9,Brand in Law Firm looking to improve its clarity.,1-3 years,Solo
+Wave 1,Construction,Brand S1,£100k-£250k,12,7,2,3,Brand in Construction looking to improve its visibility.,3-5 years,6-15
+Wave 4,B2B SaaS,Brand T1,£250k-£1M,20,8,8,4,Brand in B2B SaaS looking to improve its consistency.,3-5 years,Solo
+Wave 3,Law Firm,Brand U1,£100k-£250k,13,8,2,3,Brand in Law Firm looking to improve its consistency.,<1 year,2-5
+Wave 4,Creative Agency,Brand V1,<£100k,13,6,4,3,Brand in Creative Agency looking to improve its consistency.,1-3 years,2-5
+Wave 3,Construction,Brand W1,£250k-£1M,15,3,7,5,Brand in Construction looking to improve its visibility.,1-3 years,6-15
+Wave 3,Specialty Coffee,Brand X1,£1M+,11,3,3,5,Brand in Specialty Coffee looking to improve its clarity.,1-3 years,6-15
